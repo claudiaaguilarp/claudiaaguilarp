@@ -1,6 +1,8 @@
-# 👋 Olá, eu sou a Cláudia Aguilar
+# 👋 Olá, me chamo Cláudia Aguilar
 
 🎓 Pós-graduação em **Análise de Dados e Business Intelligence**  
+📊 Graduação em **Ciências Contábeis**  
+🔄 Em **transição de carreira**, unindo minha experiência em contabilidade com o mundo dos dados  
 💡 Apaixonada por descobertas e curiosa por natureza  
 🚀 Sempre em aprendizado, explorando novas ferramentas e linguagens  
 
