@@ -1,10 +1,10 @@
 # 👋 Olá, me chamo Cláudia Aguilar
 
-* 🎓 Graduação em **Ciências Contábeis** com pós em **Análise de Dados e Business Intelligence**
+* 🎓 Estudante de Graduação - Sistemas para Internet
 * 💻 Em **transição de carreira**, focando no **Desenvolvimento Web Front-End**
 * 🛠️ Apaixonada por colocar a mão na massa construindo páginas e interfaces modernas
-* 🚀 Atualmente estudando e me aperfeiçoando em: **HTML5, CSS3 e JavaScript**
-* 💡 Unindo o raciocínio analítico do mundo dos dados com a criatividade do código web
+* 🚀 Atualmente estudando e me aperfeiçoando em: **HTML5, CSS3 e JavaScript e Python**
+* 💡 Unindo o raciocínio analítico com a criatividade do código web
 
 
 ## 🚀 Linguagens e Tecnologias que já usei
