@@ -21,6 +21,7 @@
 * 🎨 Estruturando layouts modernos com **CSS**.
 * 🚀 Praticando versionamento de código com **Git e GitHub**.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)](https://github.com/SEU_USUARIO)
 
 ## 🌐 Redes Sociais
 
